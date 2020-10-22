@@ -1,0 +1,9 @@
+@import url('./__button/distribution__button.css');
+@import url('./__mail/distribution__mail.css');
+@import url('./__title/distribution__title.css');
+
+
+.distribution {
+    display: flex;
+    flex-direction: column;
+}

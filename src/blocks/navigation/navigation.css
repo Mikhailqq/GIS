@@ -1,0 +1,8 @@
+@import url('./__card/navigation__card.css');
+@import url('./__card-image/navigation__card-image.css');
+@import url('./__card-link/navigation__card-link.css');
+
+.navigation {
+    box-sizing: border-box;
+    padding: 15px;
+}

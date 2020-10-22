@@ -1,0 +1,12 @@
+@import url('./__logo/header__logo.css');
+@import url('./__text/header__text.css');
+@import url('./__langs/header__langs.css');
+@import url('./__buttons/header__buttons.css');
+@import url('./__image/header__image.css');
+@import url('./__container/header__container.css');
+@import url('./__logo-container/header__logo-container.css');
+
+.header {
+    /* max-width: 1440px; */
+    width: auto;
+}

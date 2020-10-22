@@ -1,0 +1,7 @@
+@import url('./__link/menu-line__link.css');
+
+.menu-line {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}

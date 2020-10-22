@@ -1,0 +1,9 @@
+.distribution__mail {
+    max-width: 20.5625rem;
+}
+
+@media screen and (max-width: 768px) {
+    .distribution__mail {
+        max-width: 8.5rem;
+    }
+}

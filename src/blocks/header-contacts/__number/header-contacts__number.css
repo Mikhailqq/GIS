@@ -1,0 +1,6 @@
+.header-contacts__number {
+    font-family: 'Roboto';
+    font-size: calc(11px + 10 * (100vw / 1440));
+    font-weight: 400;
+    margin: 0;
+}

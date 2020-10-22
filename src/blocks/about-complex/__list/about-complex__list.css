@@ -1,0 +1,8 @@
+.about-complex__list {
+    font-family: 'Roboto';
+    font-size: calc(14px + 6 * (100vw / 1440));
+    font-weight: lighter;
+    box-sizing: border-box;
+    padding: 5px;
+    margin-left: 25px;
+}

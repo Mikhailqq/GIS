@@ -1,0 +1,9 @@
+.request__form-input {
+
+}
+@media screen and (max-width: 570px) {
+    .request__form-input {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+}

@@ -1,0 +1,21 @@
+.projects__link {
+    position: absolute;
+    bottom: 5%;
+    right: 5%;
+    font-family: 'Roboto';
+    color: #FFFFFF;
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: normal;
+    box-sizing: border-box;
+    padding-top: 5px;
+    margin-left: 5px;
+    text-transform: uppercase;
+    z-index: 3;
+}
+
+.projects__link:hover {
+    color: #FFFFFF;
+    text-decoration: none;
+    transform: translateY(-5px);
+}

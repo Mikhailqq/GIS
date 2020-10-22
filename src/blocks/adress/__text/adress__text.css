@@ -1,0 +1,5 @@
+.adress__text {
+    font-size: calc(14px + 6 * (100vw / 1440));
+    font-family: 'Roboto', 'Roboto Slab', 'Inter', sans-serif;
+	font-weight: normal;
+}

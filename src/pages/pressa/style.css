@@ -1,0 +1,21 @@
+@import url('../../vendor/normalize.css');
+@import url('../../vendor/font.css');
+@import url('../../blocks/header/header.css');
+@import url('../../blocks/header-contacts/header-contacts.css');
+@import url('../../blocks/button-call/button-call.css');
+@import url('../../blocks/button-mail/button-mail.css');
+@import url('../../blocks/circle/circle.css');
+@import url('../../blocks/menu/menu.css');
+
+@import url('../../blocks/breadcrumbs/breadcrumbs.css');
+
+@import url('../../blocks/distribution/distribution.css');
+@import url('../../blocks/description/description.css');
+@import url('../../blocks/square-container/square-container.css');
+@import url('../../blocks/square-image/square-image.css');
+@import url('../../blocks/rectangle-container/rectangle-container.css');
+@import url('../../blocks/rectangle-image/rectangle-image.css');
+@import url('../../blocks/footer/footer.css');
+@import url('../../blocks/span/span.css');
+@import url('../../blocks/title/title.css');
+@import url('../../blocks/tech/tech.css');

@@ -1,0 +1,16 @@
+.intro__item-link {
+    font-family: 'Roboto';
+    color: #FFFFFF;
+    font-size: calc(10px + 6 * (100vw / 1440));
+    font-weight: bold;
+    max-width: 730px;
+    position: absolute;
+    bottom:  10%;
+    left: 5%;
+    text-transform: uppercase;
+}
+@media screen and (max-width: 768px) {
+    .intro__item-link {
+        font-size: calc(8px + (24 + 24 * 0.7) * ((100vw - 320px) / 1440));
+    }
+}

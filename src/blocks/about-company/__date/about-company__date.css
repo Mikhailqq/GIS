@@ -1,0 +1,8 @@
+.about-company__date {
+    font-family: 'Roboto';
+    font-size: calc(14px + 4 * (100vw / 1440));
+    font-weight: bold;
+    box-sizing: border-box;
+    padding: 5px;
+}
+}

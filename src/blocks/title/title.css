@@ -1,0 +1,7 @@
+.title {
+    font-family: 'Roboto', 'Roboto Slab';
+    font-size: calc(16px + 16 * (100vw / 1440));
+    font-weight: normal;
+    color: #006199;
+    text-transform: uppercase;
+}

@@ -1,0 +1,12 @@
+@import url('./__item/services__item.css');
+@import url('./__item-image/services__item-image.css');
+@import url('./__item-text/services__item-text.css');
+@import url('./__item-title/services__item-title.css');
+@import url('./__container/services__container.css');
+
+.services {
+    background-color: #EFEFEF;
+    box-sizing: border-box;
+    padding: 20px;
+    margin-top: 15px;
+}

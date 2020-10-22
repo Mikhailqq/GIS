@@ -1,0 +1,12 @@
+@import url('./__list/tech__list.css');
+@import url('./__item/tech__item.css');
+@import url('./__item-image/tech__item-image.css');
+@import url('./__columns/tech__columns.css');
+@import url('./__text/tech__text.css');
+@import url('./__title/tech__title.css');
+
+.tech {
+    margin-top: 30px;
+    box-sizing: border-box;
+    padding: 20px;
+}

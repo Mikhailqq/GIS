@@ -1,0 +1,10 @@
+.request__form-button {
+    background-color: #0091FF;
+    color: #fff;
+    font-family: 'Roboto', 'Roboto Slab', 'Inter', sans-serif;
+    font-size: calc(8px + 8 * (100vw / 1440));
+    font-weight: normal;
+    box-sizing: border-box;
+    padding: 10px;
+    border-radius: 5px;
+}

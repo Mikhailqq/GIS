@@ -1,0 +1,7 @@
+.services__item-title {
+    font-size: calc(12px + 6 * (100vw / 1440));
+    font-family: 'Roboto', 'Roboto Slab', 'Inter', sans-serif;
+	font-weight: normal;
+    color: #006199;
+    text-align: center;
+}

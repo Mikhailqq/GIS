@@ -1,0 +1,8 @@
+.description__title {
+    font-size: 1.3125rem;
+    font-family: 'Roboto', 'Roboto Slab', 'Inter', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    color: #006199;
+    text-transform: uppercase;
+}

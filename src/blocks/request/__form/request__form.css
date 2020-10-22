@@ -1,0 +1,9 @@
+.request__form {
+    display: flex;
+    justify-content: space-around;
+}
+@media screen and (max-width: 570px) {
+    .request__form {
+        flex-direction: column;
+    }
+}

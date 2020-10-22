@@ -1,0 +1,8 @@
+.text {
+    font-family: 'Roboto', 'Roboto Slab', 'Inter', sans-serif;
+    font-size: calc(10px + 8 * (100vw / 1440));
+    font-weight: normal;
+    box-sizing: border-box;
+    padding: 5px;
+    color: #006199;
+}

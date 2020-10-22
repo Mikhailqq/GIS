@@ -1,0 +1,6 @@
+.header__buttons {
+    box-sizing: border-box;
+    padding: 5px;
+    display: flex;
+    justify-content: space-around;
+}

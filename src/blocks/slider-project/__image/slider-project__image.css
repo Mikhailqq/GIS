@@ -1,0 +1,5 @@
+.slider-project__image {
+    object-fit: cover;
+    position: relative;
+	min-height: 19.9375rem;
+}

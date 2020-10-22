@@ -1,0 +1,19 @@
+.slider-gis__title {
+    font-family: 'Roboto';
+    color: #FFFFFF;
+    font-size: calc(24px + 24 * (100vw / 1440));
+    font-weight: bold;
+    max-width: 900px;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    text-transform: uppercase;
+}
+
+@media screen and (max-width: 768px) {
+    .slider-gis__title {
+        /* max-width: 300px; */
+        font-size: calc(14px + (24 + 24 * 0.7) * ((100vw - 320px) / 1440));
+
+    }
+}

@@ -1,0 +1,20 @@
+@import url('./_active/menu-line__link_active.css');
+
+.menu-line__link {
+    font-family: 'Roboto', 'Roboto Slab', 'Inter', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    font-size: calc(10px + 8 * (100vw / 1440));
+    color: #B7B7B7;
+    box-shadow: inset 0px -1px 20px 20px #E5E5E5;
+    box-sizing: border-box;
+    padding: 7px 18px;
+    text-transform: uppercase;
+}
+
+@media screen and (max-width: 768px) {
+    .menu-line__link  {
+        font-size: .7rem;
+        padding: 7px 7px;
+    }
+}

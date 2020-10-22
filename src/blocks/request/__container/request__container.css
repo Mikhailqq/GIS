@@ -1,0 +1,5 @@
+.request__container {
+    border: 1px solid #0091FF;
+	box-shadow: 0px 20px 0px 10px #0091FF;
+	padding: 40px 40px;
+}

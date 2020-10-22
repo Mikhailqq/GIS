@@ -1,0 +1,11 @@
+.slider-gis__link {
+    font-family: 'Roboto';
+    color: #FFFFFF;
+    font-size: calc(10px + 6 * (100vw / 1440));
+    font-weight: bold;
+    max-width: 730px;
+    position: absolute;
+    bottom:  10%;
+    left: 5%;
+    text-transform: uppercase;
+}

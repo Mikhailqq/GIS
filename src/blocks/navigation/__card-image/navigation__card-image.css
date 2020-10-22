@@ -1,0 +1,8 @@
+.navigation__card-image {
+    /* margin: auto; */
+	box-sizing: border-box;
+	padding-right: 41px;
+	padding-left: 41px;
+	padding-top: 28px;
+	padding-bottom: 28px;
+}

@@ -1,0 +1,6 @@
+.tech__title {
+    font-family: 'Roboto', 'Roboto Slab', 'Inter', sans-serif;
+	font-size: calc(14px + 8 * (100vw / 1440));
+	color: #000;
+	font-weight: lighter;
+}

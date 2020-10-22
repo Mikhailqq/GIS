@@ -1,0 +1,16 @@
+.complex__title {
+    font-family: 'Roboto';
+    color: #006199;
+    font-size: calc(16px + 12 * (100vw / 1440));
+    font-style: normal;
+    font-weight: normal;
+    box-sizing: border-box;
+    padding-top: 5px;
+    margin-left: 5px;
+}
+
+/* @media screen and (max-width: 375px) {
+    .complex__title {
+        text-align: center;
+    }
+} */

@@ -1,0 +1,17 @@
+.footer__link {
+    font-size: calc(10px + 6 * (100vw / 1440));
+    font-family: 'Roboto', 'Roboto Slab', 'Inter', sans-serif;
+    color: #000;
+    list-style: none;
+    text-decoration: none;
+    font-style: italic;
+    margin-bottom: 5px;
+}
+
+
+
+/* @media screen and (max-width: 768px) {
+    .footer__link {
+        font-size: 0.8rem;
+    }
+} */

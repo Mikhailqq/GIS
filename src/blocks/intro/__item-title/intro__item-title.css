@@ -1,0 +1,19 @@
+.intro__item-title {
+    font-family: 'Roboto';
+    color: #FFFFFF;
+    font-size: calc(24px + 24 * (100vw / 1440));
+    font-weight: bold;
+    max-width: 900px;
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    text-transform: uppercase;
+}
+
+
+
+@media screen and (max-width: 768px) {
+    .intro__item-title {
+        font-size: calc(10px + (24 + 24 * 0.7) * ((100vw - 320px) / 1440));
+    }
+}

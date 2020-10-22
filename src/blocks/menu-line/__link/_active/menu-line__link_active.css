@@ -1,0 +1,4 @@
+.menu-line__link.menu-line__link_active {
+    color: #FFFF;
+    box-shadow: inset 0px -1px 20px 20px  #0293FF;
+}

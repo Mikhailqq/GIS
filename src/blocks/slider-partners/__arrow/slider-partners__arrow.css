@@ -1,0 +1,15 @@
+@import url('./_place/slider-partners__arrow_place_left.css');
+@import url('./_place/slider-partners__arrow_place_right.css');
+
+.slider-partners__arrow {
+    position: absolute;
+    z-index: 2;
+    object-fit: cover;
+    object-position: center;
+}
+
+@media screen and (max-width: 1250px) {
+    .slider-partners__arrow {
+        display: none;
+    }
+}

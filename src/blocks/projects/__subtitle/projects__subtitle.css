@@ -1,0 +1,22 @@
+.projects__subtitle {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    font-family: 'Roboto';
+    color: #FFFFFF;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: bold;
+    box-sizing: border-box;
+    padding-top: 5px;
+    margin-left: 5px;
+    max-width: 330px;
+    text-transform: uppercase;
+    z-index: 3;
+}
+
+@media screen and (max-width: 768px) {
+    .projects__subtitle {
+        font-size: 1.5rem;
+    }
+}

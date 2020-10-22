@@ -1,0 +1,7 @@
+.header__text {
+    font-family: 'Roboto';
+    font-size: calc(7px + 7 * (100vw / 1440));
+    font-weight: normal;
+    box-sizing: border-box;
+    padding: 5px;
+}

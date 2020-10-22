@@ -1,0 +1,15 @@
+.distribution__button {
+    background-color: #006199;
+    color: white;
+    font-family: 'Roboto', 'Roboto Slab', 'Inter', sans-serif;
+    font-size: 1rem;
+    margin-top: 20px;
+    max-width: 14.6875rem;
+    box-sizing: border-box;
+    padding: 5px 10px;
+}
+@media screen and (max-width: 768px) {
+    .distribution__button {
+        max-width: 8.3125rem;
+    }
+}

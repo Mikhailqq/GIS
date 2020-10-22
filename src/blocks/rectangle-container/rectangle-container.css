@@ -1,0 +1,12 @@
+.rectangle-container {
+    max-width: 386px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+@media screen and (max-width: 768px) {
+    .rectangle-container {
+        max-width: 200px;
+    }
+}

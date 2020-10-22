@@ -1,0 +1,11 @@
+@import url('./__page/menu__page.css');
+
+.menu {
+    font-family: 'Roboto';
+    font-size: 1.3125rem;
+    line-height: 1.5rem;
+    font-style: normal;
+    font-weight: normal;
+    box-sizing: border-box;
+    padding-top: 20px;
+}

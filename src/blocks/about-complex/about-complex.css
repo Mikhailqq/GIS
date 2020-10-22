@@ -1,0 +1,10 @@
+@import url('__text/about-complex__text.css');
+@import url('__link/about-complex__link.css');
+@import url('__item/about-complex__item.css');
+@import url('__list/about-complex__list.css');
+
+.about-complex {
+    box-sizing: border-box;
+    padding: 10px;
+    margin-top: 20px;
+}

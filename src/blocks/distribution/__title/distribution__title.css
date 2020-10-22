@@ -1,0 +1,11 @@
+.distribution__title {
+    font-size: calc(12px + 8 * (100vw / 1440));
+    font-family: 'Roboto', 'Roboto Slab', 'Inter', sans-serif;
+	font-weight: bold;
+}
+
+/* @media screen and (max-width: 768px) {
+    .distribution__title {
+        font-size: 0.8rem;
+    }
+} */

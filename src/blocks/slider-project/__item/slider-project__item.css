@@ -1,0 +1,6 @@
+.slider-project__item {
+    position: relative;
+    display: flex;
+    flex-direction: column;    
+    justify-content: space-around;
+}

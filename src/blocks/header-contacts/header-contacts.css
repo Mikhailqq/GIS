@@ -1,0 +1,6 @@
+@import url('./__number/header-contacts__number.css');
+@import url('./__text/header-contacts__text.css');
+
+.header-contacts {
+    padding: 30px 0px 0px 0px;
+}

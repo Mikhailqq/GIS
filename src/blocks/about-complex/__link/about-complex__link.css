@@ -1,0 +1,10 @@
+.about-complex__link {
+    text-decoration: none;
+    font-family: 'Roboto';
+    font-size: 1.125rem;
+    font-weight: normal;
+    box-sizing: border-box;
+    padding: 5px;
+    text-transform: uppercase;
+
+}
